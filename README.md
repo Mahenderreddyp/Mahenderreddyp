@@ -69,7 +69,24 @@
 ## 💻 Skills
 
 **Programming Languages**  
-- Python, SQL, R, C++
+<p align="left">
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/rlang-colored.svg" width="36" height="36" alt="rlang" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" />
+  </a>
+</p>
+
 
 **Technologies & Tools**  
 - AWS, Agile, Wireshark, GitHub, Excel, Docker, MLflow, Kafka, OpenVINO, MongoDB, Intel Neural Stick
@@ -136,7 +153,7 @@ Here are a few highlights of my open-source work. Visit my [GitHub Repositories]
         - spaCy (Text preprocessing)
 
     - **Core Python Libraries:**
-        - pandas (Data manipulation)
+        - pandas (Data manipulation)    
         - NumPy (Numerical computations)
         - logging (Application logging)
 
@@ -155,9 +172,12 @@ Here are a few highlights of my open-source work. Visit my [GitHub Repositories]
 
 ## 🤝 Let’s Connect
 
-- **Email:** [Mahenderreddy.ai@gmail.com](mailto:Mahenderreddy.ai@gmail.com)  
-- **LinkedIn:** [Mahender Reddy Pokala](https://www.linkedin.com/in/mmsv/)  
-- **GitHub:** [Mahenderreddyp](https://github.com/Mahenderreddyp)
+[<img src="https://img.icons8.com/fluency/48/000000/gmail-new.png" alt="Email Icon" width="50" />](mailto:Mahenderreddy.ai@gmail.com)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn Icon" width="50" />](https://www.linkedin.com/in/mmsv/)
+&nbsp;&nbsp;&nbsp;
+[<img src="https://img.icons8.com/ios-filled/50/000000/github.png" alt="GitHub Icon" width="50" />](https://github.com/Mahenderreddyp)
+
 
 I’m always open to discussing data science, AI projects, and collaboration opportunities. Feel free to reach out!
 
