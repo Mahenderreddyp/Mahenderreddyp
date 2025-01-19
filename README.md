@@ -1,7 +1,7 @@
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
   <!-- Changed font to Roboto, size to 20 -->
-  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahender+Reddy+Pokala!;Data+Scientist+%7C+ML+Engineer;Always+Learning+%26+Building+AI+Applications!" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto&size=20&pause=1000&color=13F7BC&center=true&vCenter=true&width=435&lines=Hi+there%2C+I'm+Mahender+Reddy+Pokala!;Data+Scientist+%7C+ML+Engineer;Always+Learning+%26+Building+AI+Applications!-blue" />
 </p>
 
 <p align="center">
