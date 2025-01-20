@@ -141,7 +141,7 @@ Here are a few highlights of my open-source work. Visit my [GitHub Repositories]
         - Jupyter Notebooks (optional)`
    - **Repo Link**: [Dental Xray Anomaly Detection](https://github.com/Mahenderreddyp/Dental_Xray_Anamoly_Detection)
 
-2. **Project B**  
+2. **Legal AI Analysis**  
    - **Description**: The **LEGAL-ANALYSIS** project leverages advanced natural language processing (NLP) techniques to facilitate the analysis of complex legal documents. By utilizing powerful language models, the project offers key functionalities such as document summarization, information retrieval, and an interactive chatbot interface for querying legal texts. This system aims to streamline the analysis of legal materials, making it easier for users to comprehend, search, and extract relevant information efficiently. Whether it's summarizing lengthy contracts or answering specific legal queries, this project enhances productivity and reduces the time required for manual analysis.
 
     - The project integrates **Ollama** for language model inference and incorporates features like configuration management and logging for robust and scalable performance. Its modular design enables seamless document processing and provides a user-friendly interface for both technical and non-technical users. By combining cutting-edge NLP capabilities with practical applications, **LEGAL-ANALYSIS** serves as a valuable resource for legal professionals, researchers, and anyone working with large volumes of legal data.
